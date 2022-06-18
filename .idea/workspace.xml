@@ -2,30 +2,67 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="03696bdb-7904-48df-a3f8-4bea1b451359" name="Changes" comment="Set up github page with hydejack theme">
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_featured_categories/artwork.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_site/artwork/1992-02-24-temp-artwork/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_site/artwork/2021-09-18-temp-artwork/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_site/artwork/2022-06-18-temp-artwork/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_site/assets/img/brickwall.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_site/assets/img/khello.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_site/assets/img/klogo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_site/dsproject/1992-02-24-temp-ds/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_site/dsproject/2021-09-18-temp-ds/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_site/dsproject/2022-06-18-temp-ds/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_site/dsproject/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_site/githubPage.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_site/help/advanced/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_site/help/basics/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_site/help/build/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_site/help/config/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_site/help/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_site/help/install/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_site/help/migration/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_site/help/scripts/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_site/help/upgrade/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_site/help/writing/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/artwork/_posts/1992-02-24-temp-artwork.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/artwork/_posts/2021-09-18-temp-artwork.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/artwork/_posts/2022-06-18-temp-artwork.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/brickwall.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/khello.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/klogo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dsproject/_posts/1992-02-24-temp-ds.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dsproject/_posts/2021-09-18-temp-ds.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dsproject/_posts/2022-06-18-temp-ds.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/githubPage.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/index.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CHANGELOG.md" beforeDir="false" afterPath="$PROJECT_DIR$/CHANGELOG.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_data/authors.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_data/authors.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_featured_categories/example.md" beforeDir="false" afterPath="$PROJECT_DIR$/_featured_categories/dsproject.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_site/404.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/404.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_site/CHANGELOG/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/CHANGELOG/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_site/LICENSE/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/LICENSE/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_site/NOTICE/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/NOTICE/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_site/about/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/about/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/assets/site.webmanifest" beforeDir="false" afterPath="$PROJECT_DIR$/_site/assets/site.webmanifest" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/docs/advanced/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/docs/advanced/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/docs/basics/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/docs/basics/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/docs/build/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/docs/build/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/docs/config/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/docs/config/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/docs/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/docs/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/docs/install/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/docs/install/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/docs/migration/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/docs/migration/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/docs/scripts/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/docs/scripts/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/docs/upgrade/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/docs/upgrade/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/docs/writing/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/docs/writing/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/assets/img/brickwall.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/docs/advanced/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/docs/basics/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/docs/build/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/docs/config/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/docs/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/docs/install/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/docs/migration/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/docs/scripts/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/docs/upgrade/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/docs/writing/index.html" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/_site/download/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/download/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_site/example/2012-02-07-example-content/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/example/2012-02-07-example-content/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_site/example/2017-11-23-example-content-ii/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/example/2017-11-23-example-content-ii/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_site/example/2018-06-01-example-content-iii/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/example/2018-06-01-example-content-iii/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_site/example/2020-07-03-introducing-hydejack-9/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/example/2020-07-03-introducing-hydejack-9/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/example/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/example/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/example/index.html" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/_site/feed.xml" beforeDir="false" afterPath="$PROJECT_DIR$/_site/feed.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_site/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_site/licenses/Apache-2.0/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/licenses/Apache-2.0/index.html" afterDir="false" />
@@ -35,6 +72,23 @@
       <change beforePath="$PROJECT_DIR$/_site/licenses/W3C-20150513/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/licenses/W3C-20150513/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_site/licenses/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/licenses/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_site/posts/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/posts/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/sitemap.xml" beforeDir="false" afterPath="$PROJECT_DIR$/_site/sitemap.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/workers-site/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/_site/workers-site/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/about.md" beforeDir="false" afterPath="$PROJECT_DIR$/about.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/brickwall.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/help/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/advanced.md" beforeDir="false" afterPath="$PROJECT_DIR$/help/advanced.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/basics.md" beforeDir="false" afterPath="$PROJECT_DIR$/help/basics.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/build.md" beforeDir="false" afterPath="$PROJECT_DIR$/help/build.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/config.md" beforeDir="false" afterPath="$PROJECT_DIR$/help/config.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/install.md" beforeDir="false" afterPath="$PROJECT_DIR$/help/install.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/migration.md" beforeDir="false" afterPath="$PROJECT_DIR$/help/migration.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/scripts.md" beforeDir="false" afterPath="$PROJECT_DIR$/help/scripts.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/upgrade.md" beforeDir="false" afterPath="$PROJECT_DIR$/help/upgrade.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/writing.md" beforeDir="false" afterPath="$PROJECT_DIR$/help/writing.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/_posts/2020-07-03-introducing-hydejack-9.md" beforeDir="false" afterPath="$PROJECT_DIR$/example/_posts/2020-07-03-introducing-hydejack-9.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/workers-site/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/workers-site/index.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,22 +102,34 @@
     <option name="defaultAccountId" value="e1515d2f-a965-4251-b657-03951812a2e6" />
   </component>
   <component name="ProjectId" id="2Akyvl9EeX0NPepqPNdnKfH6PDy" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="SONARLINT_PRECOMMIT_ANALYSIS" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="jdk.selected.JAVA_MODULE" value="1.8" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="Modules" />
-    <property name="project.structure.proportion" value="0.0" />
-    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.12873563" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/artwork/_posts" />
+      <recent name="$PROJECT_DIR$/dsproject/_posts" />
+      <recent name="$PROJECT_DIR$/_featured_categories" />
+    </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -74,7 +140,8 @@
       <option name="presentableId" value="Default" />
       <updated>1655568112924</updated>
       <workItem from="1655568117099" duration="242000" />
-      <workItem from="1655568656600" duration="1726000" />
+      <workItem from="1655568656600" duration="4556000" />
+      <workItem from="1655573785278" duration="10078000" />
     </task>
     <task id="LOCAL-00001" summary="Set up github page with hydejack theme">
       <created>1655568884433</created>
@@ -104,7 +171,14 @@
       <option name="project" value="LOCAL" />
       <updated>1655569735806</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Set up github page with hydejack theme">
+      <created>1655570536279</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1655570536279</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -120,8 +194,10 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="Set up github page with hydejack theme" />
     <option name="LAST_COMMIT_MESSAGE" value="Set up github page with hydejack theme" />
   </component>

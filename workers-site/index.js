@@ -67,7 +67,7 @@ async function handleEvent(event) {
  */
 function handlePrefix(prefix) {
   return request => {
-    // compute the default (e.g. / -> index.html)
+    // compute the default (e.g. / -> index.md)
     let defaultAssetKey = mapRequestToAsset(request)
     let url = new URL(defaultAssetKey.url)
 

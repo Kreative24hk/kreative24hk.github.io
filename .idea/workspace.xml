@@ -1,7 +1,41 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="03696bdb-7904-48df-a3f8-4bea1b451359" name="Changes" comment="Set up github page with hydejack theme" />
+    <list default="true" id="03696bdb-7904-48df-a3f8-4bea1b451359" name="Changes" comment="Set up github page with hydejack theme">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/404.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/404.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/CHANGELOG/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/CHANGELOG/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/LICENSE/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/LICENSE/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/NOTICE/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/NOTICE/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/about/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/about/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/assets/site.webmanifest" beforeDir="false" afterPath="$PROJECT_DIR$/_site/assets/site.webmanifest" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/docs/advanced/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/docs/advanced/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/docs/basics/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/docs/basics/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/docs/build/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/docs/build/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/docs/config/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/docs/config/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/docs/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/docs/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/docs/install/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/docs/install/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/docs/migration/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/docs/migration/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/docs/scripts/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/docs/scripts/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/docs/upgrade/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/docs/upgrade/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/docs/writing/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/docs/writing/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/download/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/download/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/example/2012-02-07-example-content/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/example/2012-02-07-example-content/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/example/2017-11-23-example-content-ii/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/example/2017-11-23-example-content-ii/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/example/2018-06-01-example-content-iii/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/example/2018-06-01-example-content-iii/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/example/2020-07-03-introducing-hydejack-9/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/example/2020-07-03-introducing-hydejack-9/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/example/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/example/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/feed.xml" beforeDir="false" afterPath="$PROJECT_DIR$/_site/feed.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/licenses/Apache-2.0/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/licenses/Apache-2.0/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/licenses/GPL-3.0/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/licenses/GPL-3.0/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/licenses/MIT/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/licenses/MIT/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/licenses/PRO/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/licenses/PRO/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/licenses/W3C-20150513/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/licenses/W3C-20150513/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/licenses/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/licenses/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/posts/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/posts/index.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -40,7 +74,7 @@
       <option name="presentableId" value="Default" />
       <updated>1655568112924</updated>
       <workItem from="1655568117099" duration="242000" />
-      <workItem from="1655568656600" duration="986000" />
+      <workItem from="1655568656600" duration="1726000" />
     </task>
     <task id="LOCAL-00001" summary="Set up github page with hydejack theme">
       <created>1655568884433</created>
@@ -63,7 +97,14 @@
       <option name="project" value="LOCAL" />
       <updated>1655569535088</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Set up github page with hydejack theme">
+      <created>1655569735806</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1655569735806</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
